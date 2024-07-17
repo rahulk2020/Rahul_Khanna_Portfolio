@@ -18,7 +18,7 @@ body {
 }
 
 header {
-    background-image: url(images/bg.png);
+    background-image: url(bg.png);
     background-repeat: repeat;
     color: #fff;
     padding: 20px 0;
@@ -182,7 +182,7 @@ header nav ul li a:hover {
 }
   
 footer {
-    background-image: url(images/bg.png);
+    background-image: url(bg.png);
     color: #fff;
     text-align: center;
     padding: 20px 0;
