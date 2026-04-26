@@ -55,7 +55,7 @@ header nav ul li a {
 header nav ul li a:hover {
     color: #ffffff;
     background-color: #ff7300;
-    border-radius: 100%;
+    border-radius: 50%;
 }
 
 .about, .portfolio, .contact {
